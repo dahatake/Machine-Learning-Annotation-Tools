@@ -10,6 +10,8 @@ Annotation Tools for Machine Learning / Deep Learning
 - CNTK, Tensorflow (PascalVOC), YOLO
 - MIT
 
+![image](https://github.com/Microsoft/VoTT/blob/master/media/5_Export.jpg "image")
+
 https://github.com/Microsoft/VoTT
 
 
