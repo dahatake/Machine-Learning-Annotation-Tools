@@ -5,6 +5,8 @@ Annotation Tools for Machine Learning / Deep Learning
 
 1. Visual Object Tagging Tool (Microsoft)
 
+https://github.com/Microsoft/VoTT
+
 - Object Detection
 - Image, Video
 - CNTK, Tensorflow (PascalVOC), YOLO
@@ -12,28 +14,31 @@ Annotation Tools for Machine Learning / Deep Learning
 
 ![image](https://github.com/Microsoft/VoTT/blob/master/media/5_Export.jpg "image")
 
-https://github.com/Microsoft/VoTT
-
-
 2. LabelImg
+
+https://github.com/tzutalin/labelImg
 
 - Object Detection
 - Tensorflow (PascalVOC), YOLO
 - MIT
 
-https://github.com/tzutalin/labelImg
+![image](https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg "image")
 
 3. SuperVisely
+
+https://supervise.ly/
 
 - Object Detection, Image segmentation
 - Image
 - Community (free), business and Enterprise
 
-https://supervise.ly/
+![image](https://docs.supervise.ly/images/all_images/ann_001.jpg "image")
 
 # Text
 
 1. doccano
+
+https://github.com/chakki-works/doccano
 
 - Text classification, sequence labeling and sequence to sequence
 - Named Entity Recognition
@@ -42,8 +47,7 @@ https://supervise.ly/
 - CSV, JSON
 - MIT
 
-https://github.com/chakki-works/doccano
-
+![image](https://github.com/chakki-works/doccano/blob/master/docs/named_entity_annotation.gif "image")
 
 # Links
 
